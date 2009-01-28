@@ -1,0 +1,33 @@
+h1. README
+
+* ER Technology
+* Author: Juan P Daza P
+* Year: 2009
+* Purpose: SIP client
+
+Sip phone client.
+
+h2. Prerequisites
+
+This libraries have to be installed:
+* "libgpg-error":http://www.gnupg.org/download/index.en.html#libgpg-error
+
+h2. Build
+
+To build all: 
+
+ $ make
+
+
+h2. Test
+
+
+h2. Bibliography
+
+Some documentation you must read:
+* doc/gcrypt.pdf
+
+h2. Internet resources
+
+Free documentation available on internet:
+
