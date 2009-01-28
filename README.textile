@@ -1,4 +1,4 @@
-h1. README
+h2. README
 
 * ER Technology
 * Author: Juan P Daza P
@@ -10,7 +10,7 @@ Sip phone client.
 h2. Prerequisites
 
 This libraries have to be installed:
-* "libgpg-error":http://www.gnupg.org/download/index.en.html#libgpg-error
+* "reSIProcatel":http://www.resiprocate.org/Main_Page (to make this libraries to work check the section 'External libraries' about this library requirements: http://www.resiprocate.org/Quick_Subversion_Checkout_and_Compilation_HOWTO
 
 h2. Build
 
@@ -25,7 +25,7 @@ h2. Test
 h2. Bibliography
 
 Some documentation you must read:
-* doc/gcrypt.pdf
+* 
 
 h2. Internet resources
 
